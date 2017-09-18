@@ -1,3 +1,5 @@
+/* Homework done by Kiev National University mechanical mathematic department student Danil Kovalenko*/
+
 a=2456;
 b=0.00078;
 c=input('enter number');
