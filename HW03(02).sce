@@ -15,8 +15,8 @@ y1=input("y?");
 z1=input("z?");
 
 if 2*x+y+3*z==10 then                               //проверка на правильность
-    disp('answer is true for first equation')       //которая не работает
-end                                                 //не выводит значения
+    disp('answer is true for first equation')     
+end                                               
 if x+y+z==6 then
     disp('answer is true for second equation')
 end
@@ -27,8 +27,8 @@ end
 
 
 if 2*x1+y1+3*z1==10 then                               //проверка на правильность
-    disp('inputed answer is true for first equation')          //которая не работает
-end                                                    //не выводит значения
+    disp('inputed answer is true for first equation')          
+end                                                
 if x1+y1+z1==6 then
     disp('inputed answer is true for second equation')
 end
